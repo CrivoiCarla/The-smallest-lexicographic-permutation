@@ -1,0 +1,1 @@
+# The-smallest-lexicographic-permutation
